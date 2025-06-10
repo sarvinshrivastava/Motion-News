@@ -1,0 +1,12 @@
+# Dependency directories
+/vendor/
+
+# Environment files
+.env
+
+# Composer
+composer.phar
+composer.lock
+
+# IDE and Editor files
+.vscode/
